@@ -1,4 +1,4 @@
-# WELCOME
+
 # 🚀 IT GANGSTERS
 
 Welcome to **IT GANGSTERS**.
