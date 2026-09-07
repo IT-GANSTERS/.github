@@ -373,17 +373,17 @@ Reviewers should check:
 
 ### Reviewers should:
 
-✅ Give constructive feedback
-✅ Explain why a change is necessary
-✅ Suggest alternatives where appropriate
-✅ Focus on the code rather than the person
+* ✅ Give constructive feedback
+* ✅ Explain why a change is necessary
+* ✅ Suggest alternatives where appropriate
+* ✅ Focus on the code rather than the person
 
 Avoid:
 
-❌ Personal criticism
-❌ Unnecessary arguments
-❌ Blocking PRs over personal preferences
-❌ Approving code that has not been properly reviewed
+* ❌ Personal criticism
+* ❌ Unnecessary arguments
+* ❌ Blocking PRs over personal preferences
+* ❌ Approving code that has not been properly reviewed
 
 ---
 
